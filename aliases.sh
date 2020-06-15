@@ -1,5 +1,6 @@
 alias cls=clear
 alias md=mkdir
+alias tf=terraform
 alias cd..="cd .."
 
 alias ll='ls -alF'
